@@ -2,3 +2,4 @@
 /.DS_Store
 /.git
 /Cargo.lock
+**/node_modules/
